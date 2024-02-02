@@ -105,11 +105,14 @@ font-size: 13px;
 .fs-36{
   font-size:65px;
 }
-.fs{
+.fs-40{
   font-size: 20px;
 }
 .fs-55{
   font-size: 55px;
+}
+.fs-42{
+  font-size: 0.5px;
 }
 .fw-100{
   font-weight: 100;
@@ -135,6 +138,9 @@ font-size: 13px;
 .fw-900{
   font-weight: 200;
 
+}
+.fw-650{
+  font-weight: 100;
 }
 .lh-56{
   line-height: 56px;
@@ -517,7 +523,7 @@ hr.style3 {
 }
 .speakers-imgbox{
   box-shadow: 0px 0px 11px 1px #918f8f;
-    margin-left: 150%;
+    margin-left: 30%;
     overflow: hidden;
     border-radius: 20%;
     height: 170px;
@@ -541,12 +547,12 @@ hr.style3 {
 .speakers-txtbox h1{
   color: red;
 font-size: 20px!important;
-margin-left: 150%;
+
 }
 .speakers-txtbox p{
   font-size: 14px!important;
   font-weight: 400;
-  margin-left: 150%;
+  
 }
 .tedxspeakers-title{
       width: 100%;
@@ -854,6 +860,10 @@ border: 4px solid #e62b1ea8;
 .sponsorsousimg img{
   width: 100%;
   height: auto;
+}
+
+.register h1{
+  font-size: 12px;
 }
 
 
