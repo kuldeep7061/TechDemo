@@ -1,5 +1,5 @@
 # TECHNOVA-2020 X TECH CLUB
-![TEDxMITSG logo]([assets/techclub.png))
+![TEDxMITSG logo](assets/techlogo.png)
 
 [![Website status](https://img.shields.io/website-up-down-green-red/https/tedxmitsg.netlify.com.svg?label=Website%20status&style=for-the-badge)](https://tedxmitsg.netlify.com)
 
