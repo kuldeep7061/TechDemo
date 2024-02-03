@@ -8,5 +8,5 @@
 
 ## Screenshot
 
-![screenshot-2018-1-16](assets/screencapture-file-J-Web-Project-official-index-html-2020-03-16-01_09_20.png)
+![screenshot-2018-1-16](assets/capture.jpeg)
 
